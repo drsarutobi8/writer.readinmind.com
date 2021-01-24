@@ -1,0 +1,12 @@
+# Site settings
+title: read in mind
+email: chief.reader@readinmind.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "/writer" # the subpath of your site, e.g. /blog/
+url: "https://www.readinmind.com" # the base hostname & protocol for your site
+
+facebook_username: readinmind
+youtube_username: readinmind
+youtube_channel: UCaiCBs25YbaGATuXBiGG0-Q
+# Build settings
+markdown: kramdown
